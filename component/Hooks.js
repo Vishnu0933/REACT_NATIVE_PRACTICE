@@ -15,7 +15,7 @@ const Hooks = ({navigation}) => {
       <Button
         title="Back"
         onPress={() => {
-          navigation.goBack();
+          alart('This is vishnu');
         }}
       />
     </SafeAreaView>
