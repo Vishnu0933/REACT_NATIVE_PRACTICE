@@ -6,6 +6,7 @@ const App = () => {
   return (
     <View style={{flex: 1}}>
       <Hooks />
+      {/* hi */}
     </View>
 
   );
