@@ -5,8 +5,7 @@ import Hooks from './component/Hooks';
 const App = () => {
   return (
     <View style={{flex: 1}}>
-      <Hooks />
-      {/* hi */}
+      <InGeneral />
     </View>
 
   );
