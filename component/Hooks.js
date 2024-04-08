@@ -18,6 +18,7 @@ const Hooks = ({navigation}) => {
           alart('This is vishnu');
         }}
       />
+      <Text>practice 2</Text>
     </SafeAreaView>
   );
 };
