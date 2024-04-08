@@ -8,7 +8,7 @@ import {
 } from 'react-native';
 import React from 'react';
 import {useNavigation} from '@react-navigation/native';
-const Hooks = ({navigation}) => {
+const InGeneral = ({navigation}) => {
   return (
     <SafeAreaView style={styles.container}>
       <StatusBar barStyle="dark-content" backgroundColor={'pink'} />
@@ -23,7 +23,7 @@ const Hooks = ({navigation}) => {
   );
 };
 
-export default Hooks;
+export default InGeneral;
 
 const styles = StyleSheet.create({
   container: {
